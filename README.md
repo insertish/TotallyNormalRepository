@@ -5,3 +5,5 @@ git clone https://github.com/insertish/TotallyNormalRepository NothingGoingOnHer
 cd NothingGoingOnHere
 pwsh InnocentLookingScript.ps1
 ```
+
+Do not pay any attention to the file named `go_away.png` which does not contain any instructions.
