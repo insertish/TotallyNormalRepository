@@ -7,3 +7,5 @@ pwsh InnocentLookingScript.ps1
 ```
 
 Do not pay any attention to the file named [go_away.png](https://raw.githubusercontent.com/insertish/TotallyNormalRepository/master/go_away.png) which does not contain any instructions.
+
+> Note: you need to have 7-Zip installed and accessible as `7z`.
